@@ -20,14 +20,13 @@
 ```javascript
 const santiago = {
   name: "Santiago",
-  //role: "Backend Developer & Software Architect",
   mindset: ["Clean Code", "Hexagonal Architecture", "TDD", "Autodidacta"],
   securityFocus: ["Traffic Analysis", "Incident Mitigation"],
-  environment: "Ubuntu Linux Daily Driver 🐧",
+  environment: "Ubuntu Linux Daily Driver ",
   traits: ["Problem Solving", "Discipline", "Continuous Learning"],
   passions: {
-    backend: "Python / FastAPI & Resilient Microservices ⚙️",
-    devops: "Docker, CI/CD Automation & Linux 🐳"
+    backend: "Python / FastAPI & Resilient Microservices",
+    devops: "Docker, CI/CD Automation & Linux "
   }
 
 }; 
