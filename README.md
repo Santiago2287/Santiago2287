@@ -32,6 +32,5 @@ const santiago = {
 }; 
 
 ## :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:last_update-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
