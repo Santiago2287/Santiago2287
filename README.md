@@ -19,14 +19,14 @@
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Santiago2287/currencyConverterApi](https://github.com/Santiago2287/currencyConverterApi)<br>
-2. ⬆️ Pushed undefined commit(s) to [Santiago2287/currencyConverterApi](https://github.com/Santiago2287/currencyConverterApi)<br>
-3. ⬆️ Pushed undefined commit(s) to [Santiago2287/Santiago2287](https://github.com/Santiago2287/Santiago2287)<br>
-4. 💬 Commented on [#14](https://github.com/Backyardigans-CUCEI/prueba/pull/14#issuecomment-6614948452) in [Backyardigans-CUCEI/prueba](https://github.com/Backyardigans-CUCEI/prueba)<br>
-5. ✔️ Closed issue [#13](https://github.com/Backyardigans-CUCEI/prueba/issues/13) in [Backyardigans-CUCEI/prueba](https://github.com/Backyardigans-CUCEI/prueba)<br>
+1. 💬 Commented on [#1](https://github.com/Santiago2287/Introduction-to-MLOps-/pull/1#issuecomment-6873814673) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+2. 💪 Opened PR [#1](undefined) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+3. ⬆️ Pushed undefined commit(s) to [Santiago2287/currencyConverterApi](https://github.com/Santiago2287/currencyConverterApi)<br>
+4. ⬆️ Pushed undefined commit(s) to [Santiago2287/currencyConverterApi](https://github.com/Santiago2287/currencyConverterApi)<br>
+5. ⬆️ Pushed undefined commit(s) to [Santiago2287/Santiago2287](https://github.com/Santiago2287/Santiago2287)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 14th, 2026, 4:48:09 AM
+Last Updated: Saturday, November 14th, 2026, 5:37:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ```javascript
