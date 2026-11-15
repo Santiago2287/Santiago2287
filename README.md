@@ -19,14 +19,14 @@
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1](https://github.com/Santiago2287/Introduction-to-MLOps-/pull/1#issuecomment-6873814673) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
-2. 💪 Opened PR [#1](undefined) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
-3. ⬆️ Pushed undefined commit(s) to [Santiago2287/currencyConverterApi](https://github.com/Santiago2287/currencyConverterApi)<br>
-4. ⬆️ Pushed undefined commit(s) to [Santiago2287/currencyConverterApi](https://github.com/Santiago2287/currencyConverterApi)<br>
-5. ⬆️ Pushed undefined commit(s) to [Santiago2287/Santiago2287](https://github.com/Santiago2287/Santiago2287)<br>
+1. ⬆️ Pushed undefined commit(s) to [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+2. 💬 Commented on [#2](https://github.com/Santiago2287/Introduction-to-MLOps-/pull/2#issuecomment-6888082973) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+3. 💪 Opened PR [#2](undefined) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+4. 💬 Commented on [#1](https://github.com/Santiago2287/Introduction-to-MLOps-/pull/1#issuecomment-6873814673) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+5. 💪 Opened PR [#1](undefined) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 14th, 2026, 5:37:35 PM
+Last Updated: Sunday, November 15th, 2026, 4:39:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ```javascript
