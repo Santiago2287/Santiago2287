@@ -19,14 +19,14 @@
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+1. ⬆️ Pushed undefined commit(s) to [Backyardigans-CUCEI/prueba](https://github.com/Backyardigans-CUCEI/prueba)<br>
 2. ⬆️ Pushed undefined commit(s) to [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
-3. 💬 Commented on [#5](https://github.com/Santiago2287/Introduction-to-MLOps-/pull/5#issuecomment-7053414831) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
-4. 💪 Opened PR [#5](undefined) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
-5. ❗️ Opened issue [#15](https://github.com/Backyardigans-CUCEI/prueba/issues/15) in [Backyardigans-CUCEI/prueba](https://github.com/Backyardigans-CUCEI/prueba)<br>
+3. ⬆️ Pushed undefined commit(s) to [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+4. 💬 Commented on [#5](https://github.com/Santiago2287/Introduction-to-MLOps-/pull/5#issuecomment-7053414831) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
+5. 💪 Opened PR [#5](undefined) in [Santiago2287/Introduction-to-MLOps-](https://github.com/Santiago2287/Introduction-to-MLOps-)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 22nd, 2026, 4:54:04 AM
+Last Updated: Sunday, November 22nd, 2026, 6:59:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ```javascript
